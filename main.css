@@ -21,6 +21,10 @@
   margin-right: 50px;
   font-size: 18px;
 }
+.nav__button:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  transition: 0.5s;
+}
 .nav_day {
   border: 1px solid #928d8d61;
   border-radius: 5px;
